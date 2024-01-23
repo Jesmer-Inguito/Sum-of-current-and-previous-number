@@ -9,4 +9,6 @@ for i in range(10):
     sum = previous_num + i
     print('Current number is', i , 'Previous number is', previous_num , 'Sum:', sum)
 
+# Modify previous_num
 # Set previous_num to "i"
+    previous_num = i
